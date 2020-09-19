@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./App.css";
+import "./sass/App.css";
 import InitLoading from "./components/initLoading";
 import ChkLocation from "./components/chkLocation";
 import ChkTemperature from "./components/chkTemperature";
